@@ -1,0 +1,7 @@
+name: ExampleItemModsAddon
+author: CodeDoctorDE
+api-version: "1.14"
+main: com.github.codedoctorde.itemmodsaddon.ExampleMods
+version: "1.0"
+depend:
+  - ItemMods
